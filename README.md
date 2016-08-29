@@ -12,7 +12,7 @@
   9. a good pr example
   10. a bad pr example, im bad and i made more commits after ok
   11. nice test
-  12. bad test
+  12. bad test, im secretly merge sth
   
 
 ## Installation
