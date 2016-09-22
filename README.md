@@ -12,7 +12,7 @@
   9. integration test, ok
   10. why not!da
   11. bad prdsadsadas
-  12. by passing
+  12. by passing, ok
 
 ## Installation
 
