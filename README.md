@@ -9,7 +9,7 @@
   6. bad pr
   7. good pr, change done.
   8. bad pr, i want to merge, get out
-  9. integration test
+  9. integration test, ok
 
 ## Installation
 
