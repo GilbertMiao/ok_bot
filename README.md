@@ -7,6 +7,7 @@
   4. test case: bad pr, commits after comments; he said need change, so i change.
   5. no comments at all
   6. bad pr
+  7. good pr
 
 ## Installation
 
