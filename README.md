@@ -4,6 +4,7 @@
   1. This is for testing.
   2. new test
   3. A real good PR eg
+  4. test case: bad pr, commits after comments
 
 ## Installation
 
