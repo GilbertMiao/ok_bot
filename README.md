@@ -2,29 +2,7 @@
 
 **TODO: Add description** 
   1. This is for testing.
-  2. new test
-  3. A real good PR eg
-  4. test case: bad pr, commits after comments; he said need change, so i change.
-  5. no comments at all
-  6. bad pr
-  7. good pr, change done.
-  8. bad pr, i want to merge, get out
-  9. integration test, ok
-  10. why not!da
-  11. bad prdsadsadas
-  12. by passing, ok
-  13. simulate, huh?
-  14. wtf?ewqewq!!!!
-  15. 123 bad,,,,kldkslakd;slkl;ask;kdsa;dksa;kdasl
-  16. ewqewqeqwewqewqewqewqewqewqewqewqewq
-  17. bad pr, sneaky in
-  18. bad pr, passing by, hehehehe
-  19. bypass
-  20. real by pass
-  21. hahah
-  22. bad pr im djskajdklsajdklsa
-  23. bad pr
-
+  
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
